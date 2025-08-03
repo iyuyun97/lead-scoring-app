@@ -1,0 +1,11 @@
+# backend/requirements.txt
+fastapi
+uvicorn
+pandas
+openpyxl
+python-multipart
+python-jose
+pyjwt
+smtplib
+requests
+email-validator
